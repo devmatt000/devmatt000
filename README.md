@@ -15,7 +15,7 @@ Hi, Chee's here!
 
 -💬 Open to discussions on Deep Learning, NLP, Computer Vision, and AI deployment<br>
 
--📫 Reach me at: chee.devmatt.tech@gmail.com
+-📫 Reach me at: fusiondev.ai117@gmail.com
 
 ## Languages
 
